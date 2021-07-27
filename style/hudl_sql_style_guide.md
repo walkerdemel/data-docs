@@ -4,6 +4,8 @@ title: SQL Style Guide
 description: A guide to writing clean, clear, and consistent SQL.
 ---
 
+~ I feel like I shouldn't change the examples of bad code into good code since this is an explanatory document. Instead I'll just leave this welcome message. welcome. -walker
+
 # Purpose
 This document exists as a resource of guiding principles for those who build, refactor and work with data models. It contains Decision Science’s requirements and best practices for data modeling, SQL style and data testing.
 
