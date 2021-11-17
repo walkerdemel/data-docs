@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default --hi
 title: SQL Style Guide
 description: A guide to writing clean, clear, and consistent SQL.
 ---
